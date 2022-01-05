@@ -15,7 +15,7 @@ public class NxNChessboard {
   }
 
   public static void main(String[] args) {
-    long n = ;
+    long n = 8;
     Long ans = squaresInChessBoard(n);
     System.out.println(ans);
   }
