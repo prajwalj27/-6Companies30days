@@ -2,7 +2,6 @@
 Problem Link: https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/
 Title: Overlapping Rectangles
 Difficulty: Easy
-Author: Prajwal Jaiswal
 Language: Java
 */
 
