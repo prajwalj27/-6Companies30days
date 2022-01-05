@@ -11,7 +11,7 @@ public class GcdForStrings {
     // for the solution we need length of str2 to be less than str1,
     // if length of str1 < str1, we swap str1 with str2 
     if (str1.length() < str2.length()) {
-      return gcdOfStrings(str2,str1);
+      return gcdOfStrings(str2, str1);
 
     // if the str1 and str2 totally different strings
     }else if (!str1.startsWith(str2)) {
@@ -22,7 +22,7 @@ public class GcdForStrings {
 
     // use the same logic as gcd of integers for the strings
     }else {
-      return gcdOfStrings(str1.substring(str2.length()),str2);
+      return gcdOfStrings(str1.substring(str2.length()), str2);
     }
   }
 
