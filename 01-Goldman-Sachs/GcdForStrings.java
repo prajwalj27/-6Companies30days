@@ -8,8 +8,8 @@ Language: Java
 public class GcdForStrings {
 
   static String gcdOfStrings(String str1, String str2) {
-    // for the solution we need length of str2 to be less than str1,
-    // if length of str1 < str1, we swap str1 with str2 
+    // for this solution we need length of str2 to be less than str1,
+    // if length of str1 < str2, we swap str1 and str2 
     if (str1.length() < str2.length()) {
       return gcdOfStrings(str2, str1);
 
