@@ -89,8 +89,8 @@
 	</tr>
 <tr>
 	<td>Squares in N*N Chessboard</td>
-	<td><a href="#">Link</a></td>
-	<td><a href="#">Click Here</a></td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1#">Link</a></td>
+	<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/NxNChessboard.java">Click Here</a></td>
 	</tr>
 <tr>
 	<td>Decode the string</td>
