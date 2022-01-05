@@ -18,97 +18,94 @@
 
 ## Coding Challenge
 <table>
-    <tr>
-        <th colspan ="3"> <b>Problems</b> </ th> 
-	<th colspan ="2"> <b>Solutions</b> </ th>
-    </tr>
-    <tr>
-	<center>
-	<td>Company</ td> 
-  <td>Title</ td> 
-     <td>Question</ td> 
-     <td>Solution</ td> 
-	</center>
-    </tr>
-<tr>
-	<td rowspan="15"><b>Goldman Sachs</b></td>
-	<td>Print Anagrams Together</td>
-	<td><a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/">Link</a></td>
-	<td><a href="#">Click Here</a></td>
+	<tr>
+		<th colspan ="1" rowspan="2"> <b>Company</b> </th> 
+		<th colspan ="3"> <b>Problems</b> </th> 
 	</tr>
-<tr>
-	<td>Overlapping rectangles</td>
-	<td><a href="https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/">Link</a></td>
-	<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/OverlappingRectangles.java">Click Here</a></td>
+	<tr>
+		<center>
+			<td><b>Title</b></td> 
+			<td><b>Question</b></td> 
+			<td><b>Solution</b></td> 
+		</center>
 	</tr>
-	
-<tr>
-	<td>Count the subarrays having product less than k</td>
-	<td><a href="https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/">Link</a></td>
-	<td><a href="#">Click Here</a></td>
-	</tr>
-<tr>
-	<td>Run Length Encoding</td>
-	<td><a href="https://practice.geeksforgeeks.org/problems/run-length-encoding/1/">Link</a></td>
-	<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/RunLengthEncoding.java">Click Here</a></td>
-	</tr>
-<tr>
-	<td>Ugly Numbers</td>
-	<td><a href="https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/">Link</a></td>
-	<td><a href="#">Click Here</a></td>
-	</tr>
-<tr>
-	<td>Greatest Common Divisor of Strings</td>
-	<td><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Link</a></td>
-	<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/GcdForStrings.java">Click Here</a></td>
-	</tr>
-<tr>
-	<td>Find the position of M-th item</td>
-	<td><a href="https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1">Link</a></td>
-	<td><a href="#">Click Here</a></td>
-	</tr>
-<tr>
-	<td>Total Decoding Messages</td>
-	<td><a href="https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/">Link</a></td>
-	<td><a href="#">Click Here</a></td>
-	</tr>
-<tr>
-	<td>Number following a pattern</td>
-	<td><a href="https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1">Link</a></td>
-	<td><a href="#">Click Here</a></td>
-	</tr>
-<tr>
-	<td>Largest 10 numbers from 10M</td>
-	<td><a href="#">Link</a></td>
-	<td><a href="#">Click Here</a></td>
-	</tr>
-<tr>
-	<td>Find Missing And Repeating</td>
-	<td><a href="https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/">Link</a></td>
-	<td><a href="#">Click Here</a></td>
-	</tr>
-<tr>
-	<td>Squares in N*N Chessboard</td>
-	<td><a href="https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1#">Link</a></td>
-	<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/NxNChessboard.java">Click Here</a></td>
-	</tr>
-<tr>
-	<td>Decode the string</td>
-	<td><a href="https://practice.geeksforgeeks.org/problems/decode-the-string2444/1">Link</a></td>
-	<td><a href="#">Click Here</a></td>
-	</tr>
-<tr>
-	<td>Minimum Size Subarray Sum</td>
-	<td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Link</a></td>
-	<td><a href="#">Click Here</a></td>
-	</tr>
-<tr>
-	<td>Array Pair Sum Divisibility Problem</td>
-	<td><a href="https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1">Link</a></td>
-	<td><a href="#">Click Here</a></td>
+	<tr>
+		<td rowspan="15"><b>Goldman Sachs</b></td>
+		<td>Print Anagrams Together</td>
+		<td><a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/">Link</a></td>
+		<td><a href="#">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Overlapping rectangles</td>
+		<td><a href="https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/">Link</a></td>
+		<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/OverlappingRectangles.java">Click Here</a></td>
+		</tr>
+		
+	<tr>
+		<td>Count the subarrays having product less than k</td>
+		<td><a href="https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/">Link</a></td>
+		<td><a href="#">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Run Length Encoding</td>
+		<td><a href="https://practice.geeksforgeeks.org/problems/run-length-encoding/1/">Link</a></td>
+		<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/RunLengthEncoding.java">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Ugly Numbers</td>
+		<td><a href="https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/">Link</a></td>
+		<td><a href="#">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Greatest Common Divisor of Strings</td>
+		<td><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Link</a></td>
+		<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/GcdForStrings.java">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Find the position of M-th item</td>
+		<td><a href="https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1">Link</a></td>
+		<td><a href="#">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Total Decoding Messages</td>
+		<td><a href="https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/">Link</a></td>
+		<td><a href="#">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Number following a pattern</td>
+		<td><a href="https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1">Link</a></td>
+		<td><a href="#">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Largest 10 numbers from 10M</td>
+		<td><a href="#">Link</a></td>
+		<td><a href="#">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Find Missing And Repeating</td>
+		<td><a href="https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/">Link</a></td>
+		<td><a href="#">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Squares in N*N Chessboard</td>
+		<td><a href="https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1#">Link</a></td>
+		<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/NxNChessboard.java">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Decode the string</td>
+		<td><a href="https://practice.geeksforgeeks.org/problems/decode-the-string2444/1">Link</a></td>
+		<td><a href="#">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Minimum Size Subarray Sum</td>
+		<td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Link</a></td>
+		<td><a href="#">Click Here</a></td>
+		</tr>
+	<tr>
+		<td>Array Pair Sum Divisibility Problem</td>
+		<td><a href="https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1">Link</a></td>
+		<td><a href="#">Click Here</a></td>
 	</tr>
 	
 </table>
-<br>
-<br>
 
