@@ -38,7 +38,7 @@
 <tr>
 	<td>Overlapping rectangles</td>
 	<td><a href="https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/">Link</a></td>
-	<td><a href="#">Click Here</a></td>
+	<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/OverlappingRectangles.java">Click Here</a></td>
 	</tr>
 	
 <tr>
@@ -49,7 +49,7 @@
 <tr>
 	<td>Run Length Encoding</td>
 	<td><a href="https://practice.geeksforgeeks.org/problems/run-length-encoding/1/">Link</a></td>
-	<td><a href="#">Click Here</a></td>
+	<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/RunLengthEncoding.java">Click Here</a></td>
 	</tr>
 <tr>
 	<td>Ugly Numbers</td>
@@ -59,7 +59,7 @@
 <tr>
 	<td>Greatest Common Divisor of Strings</td>
 	<td><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Link</a></td>
-	<td><a href="#">Click Here</a></td>
+	<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/GcdForStrings.java">Click Here</a></td>
 	</tr>
 <tr>
 	<td>Find the position of M-th item</td>
