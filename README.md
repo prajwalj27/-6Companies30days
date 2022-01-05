@@ -1,7 +1,7 @@
 # #6Companies30Days
 
-[![ReviseWithArsh](https://img.shields.io/badge/ReviseWithArsh-6Companies30Days-green?style=for-the-badge&logo=github)](https://github.com/hariketsheth/6Companies30Days)
-[![ReviseWithArsh](https://img.shields.io/badge/Language-C++-red?style=for-the-badge&logo=C%2B%2B)](https://github.com/hariketsheth/6Companies30Days)
+[![ReviseWithArsh](https://img.shields.io/badge/ReviseWithArsh-6Companies30Days-green?style=for-the-badge&logo=github)](https://github.com/prajwalj27/6Companies30days)
+[![ReviseWithArsh](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java)](https://github.com/prajwalj27/6Companies30days)
 
 >### #ReviseWithArsh : #6Companies30Days 
 > A challenge to solve coding questions of top 6 companies in 30 days. An initiative started by Arsh Goyal. 
@@ -10,15 +10,9 @@
 <br>
 
 ## Using this Repository
-1. Accessing via Git:
    ```bash
    git clone https://github.com/hariketsheth/6Companies30Days
    ```
-   
-2. Directly from GitHub:
-   - Click the `Code` and Press `Download ZIP`
-   ![image](https://user-images.githubusercontent.com/72455881/147927669-90f3dd8b-0bd5-4969-a942-dfd6dad17ede.png)
-
 <br>
 
 ## Coding Challenge
