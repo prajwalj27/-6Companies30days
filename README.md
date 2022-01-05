@@ -11,7 +11,7 @@
 
 ## Using this Repository
    ```bash
-   git clone https://github.com/hariketsheth/6Companies30Days
+   git clone https://github.com/prajwalj27/6Companies30days
    ```
 <br>
 
