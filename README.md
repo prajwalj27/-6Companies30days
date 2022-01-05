@@ -25,7 +25,6 @@
 	<center>
 	<td>Company</ td> 
   <td>Title</ td> 
-     <td>Language</ td> 
      <td>Question</ td> 
      <td>Solution</ td> 
 	</center>
@@ -33,7 +32,6 @@
 <tr>
 	<td rowspan="15"><b>Goldman Sachs</b></td>
 	<td>Print Anagrams Together</td>
-	<td rowspan="15">C++</td>
 	<td><a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/">Link</a></td>
 	<td><a href="#">Click Here</a></td>
 	</tr>
