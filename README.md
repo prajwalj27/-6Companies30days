@@ -63,7 +63,7 @@
 	<tr>
 		<td>Find the position of M-th item</td>
 		<td><a href="https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1">Link</a></td>
-		<td><a href="#">Click Here</a></td>
+		<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/MthItemPosition.java">Click Here</a></td>
 	</tr>
 	<tr>
 		<td>Total Decoding Messages</td>
