@@ -33,7 +33,7 @@
 		<td rowspan="15"><b>Goldman Sachs</b></td>
 		<td>Print Anagrams Together</td>
 		<td><a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/">Link</a></td>
-		<td><a href="#">Click Here</a></td>
+		<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/Anagrams.java">Click Here</a></td>
 		</tr>
 	<tr>
 		<td>Overlapping rectangles</td>
@@ -77,8 +77,8 @@
 	</tr>
 	<tr>
 		<td>Largest 10 numbers from 10M</td>
-		<td><a href="#">Link</a></td>
-		<td><a href="#">Click Here</a></td>
+		<td>N.A.</td>
+		<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/MaxOfTenMillion.java">Click Here</a></td>
 	</tr>
 	<tr>
 		<td>Find Missing And Repeating</td>
@@ -98,12 +98,12 @@
 	<tr>
 		<td>Minimum Size Subarray Sum</td>
 		<td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Link</a></td>
-		<td><a href="#">Click Here</a></td>
+		<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/MinSizeSubArray.java">Click Here</a></td>
 	</tr>
 	<tr>
 		<td>Array Pair Sum Divisibility Problem</td>
 		<td><a href="https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1">Link</a></td>
-		<td><a href="#">Click Here</a></td>
+		<td><a href="https://github.com/prajwalj27/6Companies30days/blob/main/01-Goldman-Sachs/ArrayPairDivisibility.java">Click Here</a></td>
 	</tr>
 	
 </table>
