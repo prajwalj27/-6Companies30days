@@ -1,3 +1,10 @@
+/*
+Problem Link: https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/
+Title: Print Anagrams Together
+Difficulty: Medium
+Language: Java
+*/
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
