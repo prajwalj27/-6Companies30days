@@ -8,32 +8,33 @@ Language: Java
 public class ProductSubarrays {
 
   static int countSubarraysProduct(long[] arr, long n, long k) {
-    long product = 1;
-    int start = 0, end = 0, count = 0;
 
-    while (end < n) {
+    if (k == 0) return 0;
+
+    long product = 1;
+    int count = 0;
+
+    for (int i = 0, j = 0; j < n; j++) {
       // move the end bound by 1 step and update the product
-      product *= arr[end];
+      product *= arr[j];
 
       // if product is greater than equal to target k, we'll move the start 
       // bound by 1 and update the product 
-      while (product >= k) {
-        product /= arr[start++];
+      while (i <= j && product >= k) {
+        product /= arr[i++];
       }
 
       // else we will update the count of subarrays
-      count += end - start + 1;
-      end++;
+      count += j - i + 1;
     }
 
     return count;
   } 
 
   public static void main(String[] args) {
-    long[] a = {1, 9, 2, 8, 6, 4, 3};
-    long k = 100;
-    long n = 7;
-
+    long[] a = {1, 1, 1};
+    long k = 1;
+    long n = 3;
     System.out.println(countSubarraysProduct(a, n, k));
   }
   
