@@ -1,3 +1,10 @@
+/*
+Problem Link: https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/
+Title: Find Missing And Repeating
+Difficulty: Medium
+Language: Java
+*/
+
 import java.util.Arrays;
 
 public class MissingAndRepeating {

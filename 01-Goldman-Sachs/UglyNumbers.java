@@ -1,3 +1,10 @@
+/*
+Problem Link: https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/
+Title: Ugly Numbers
+Difficulty: Hard
+Language: Java
+*/
+
 import java.util.*;
 
 class UglyNumbers {
